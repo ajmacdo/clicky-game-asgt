@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.smartertravel.com/uploads/2018/12/grace-bay-beach-turks-caicos-1400x500.jpg",
+    "location": "Turks and Caicos"
+  },
+  {
+    "id": 2,
+    "image": "https://www.thetopvillas.com/blog/wp-content/uploads/2017/02/Best-beaches-in-Barbados-1140x760.jpg",
+    "location": "Barbados"
+  },
+  {
+    "id": 3,
+    "image": "https://www.smartertravel.com/uploads/2018/12/the-baths-british-virgin-islands-virgin-gorda-caribbean-beaches.jpg",
+    "location": "The Baths, British Virgin Islands"
+  },
+  {
+    "id": 4,
+    "image": "https://www.smartertravel.com/uploads/2018/12/maracas-bay-trinidad-and-tobago-caribbean-beaches.jpg",
+    "location": "Maracas Bay, Trinidad and Tobago"
+  },
+  {
+    "id": 5,
+    "image": "https://www.thetopvillas.com/blog/wp-content/uploads/2017/02/Sandy-Lane-Beach.jpg",
+    "location": "Sandy Lane Beach"
+  },
+  {
+    "id": 6,
+    "image": "https://www.thetopvillas.com/blog/wp-content/uploads/2017/02/shutterstock_330358514.jpg",
+    "location": "Holetown Beach"
+  },
+  {
+    "id": 7,
+    "image": "https://www.thetopvillas.com/blog/wp-content/uploads/2017/02/Paynes-Bay.jpg",
+    "location": "Paynes Bay"
+  },
+  {
+    "id": 8,
+    "image": "https://www.thetopvillas.com/blog/wp-content/uploads/2017/02/Fitts-Village.jpg",
+    "location": "Fitts Village"
+  },
+  {
+    "id": 9,
+    "image": "https://www.thetopvillas.com/blog/wp-content/uploads/2017/02/Mullins-Beach.jpg",
+    "location": "Mullins Beach"
+  },
+  {
+    "id": 10,
+    "image": "https://www.thetopvillas.com/blog/wp-content/uploads/2017/02/Crane_Beach_Barbados.jpg",
+    "location": "Crane Beach"
+  },
+  {
+    "id": 11,
+    "image": "https://www.thetopvillas.com/blog/wp-content/uploads/2017/02/Reeds-Bay.jpg",
+    "location": "Reeds Bay"
+  },
+  {
+    "id": 12,
+    "image": "https://www.thetopvillas.com/blog/wp-content/uploads/2017/02/Alleynes-beach.jpg",
+    "location": "Alleyne’s Beach"
+  }
+]
